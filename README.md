@@ -25,7 +25,7 @@ These sources provided the richest and most valuable information for our researc
 
 ## Methods
 
-This project employs descriptive analysis, such as identifying the top-performing genres with an average ROI of $80 million or less, and illustrating the average ROI based on the month of release for mid-budget genres, to bolster our recommendations. We selected ROI as the key metric, as it aligns with industry standards for calculating movie profits, as explained in this article on [how to calculate movie ROI](https://www.linkedin.com/pulse/how-can-one-calculate-roi-when-investing-movies-sharad-patel/). In addition, We also ran a regression to show how much production budget explains the variance of worldwide gross. ROI is calculated as worldwide gross divided by production budget multiplied by 100.
+This project employs descriptive analysis, such as identifying the top-performing genres with an average ROI of $80 million or less, and illustrating the average profit based on the month of release for mid-budget genres, to bolster our recommendations. We selected ROI as the key metric, as it aligns with industry standards for calculating movie profits, as explained in this article on [how to calculate movie ROI](https://www.linkedin.com/pulse/how-can-one-calculate-roi-when-investing-movies-sharad-patel/). In addition, We also ran a regression to show how much production budget explains the variance of worldwide gross. ROI is calculated as worldwide gross divided by production budget multiplied by 100.
 
 ## Results
 
@@ -74,27 +74,20 @@ Identifying and collaborating with successful directors in the film industry can
 
 ## For More Information
 
-Please visit our full analysis in our [Jupyter Notebook](film_analysis.ipynb), [Slide Presentation](presentation.pdf) and [Tableau Dashboard link](https://public.tableau.com/app/profile/harshitha.thota/viz/MovieStudioAnalysis/Dashboard)
+Please visit our full analysis in our [Jupyter Notebook](film_analysis.ipynb), [Slide Presentation](presentation.pdf), [Tableau Dashboard link](https://public.tableau.com/app/profile/harshitha.thota/viz/MovieStudioAnalysis/Dashboard) and watch our [Live Project Presentation](https://youtu.be/q1_d9o2uLHM?si=X-vRID8urU6vluAl&t=1337).
 
 ## Repository Structure
 
 You are currently in the README.md file. The 'film_analysis.ipynb' file contains the jupyter notebook of the explaratory analysis of the given data that provides step-by-step guide to how we came to our conclusion. 'images' file contains the images used in this file. The images were taken from the internet.
 
 ```
-├── data                    <- Data file used in this project
-├── images                  <- Images and Graphs used in this project obtained from external and internal source
-├── .gitignore              <- Contains list of files to be ignored from GitHub
-├── presentation.pdf   <- Slide Presentation of the project
-├── README.md               <- Contains README file to be reviewed    
-└── film_analysis.ipynb             <- Jupyter notebook of the project containing codes and analysis
+├── data                                  <- Data file used in this project
+├── images                                <- Images and Graphs used in this project obtained from external and internal source
+├── .gitignore                            <- Contains list of files to be ignored from GitHub
+├── film_analysis_presentation.pdf        <- Slide Presentation of the project
+├── README.md                             <- Contains README file to be reviewed    
+└── film_analysis.ipynb                   <- Jupyter notebook of the project containing codes and analysis
 ```
-
-
-
-
-
-
-
 
 
 
